@@ -1,0 +1,61 @@
+.payment-inputs {
+  background-color: #ecf0f1;
+  margin-top: 20px;
+}
+
+.income-border {
+  margin-left: 500px;
+  border-radius: 5px;
+}
+
+.expenses-border {
+  border-radius: 5px;
+}
+
+.income-title {
+  color: #00bcd4;
+}
+
+.expenses-title {
+  color: #ef5350;
+}
+
+.income-amount, .expense-amount {
+  color: #fff;
+}
+
+.submit-button {
+  margin-top: 1.2rem;
+  margin-bottom: auto;
+}
+
+.income-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  text-align: center;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.expense-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  text-align: center;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/*# sourceMappingURL=style.css.map */
