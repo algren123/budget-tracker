@@ -8,4 +8,4 @@ You are able to Create a payment, Read the payment, Edit the payment and Delete 
 
 I now plan on adding local storage and updating the design
 
-DEMO: algren123.github.io/budget-tracker
+DEMO: www.algren123.github.io/budget-tracker
